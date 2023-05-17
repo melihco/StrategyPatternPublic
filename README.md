@@ -1,0 +1,2 @@
+# StrategyPatternPublic
+Strategy Pattern
